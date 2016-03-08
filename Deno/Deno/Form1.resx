@@ -117,8 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Deno" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Deno.ico;System.Drawing.Icon, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="notifyIcon1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>133, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="notifyIcon1.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAAAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAA
+        AAAAAACBAAAAgQAAAIEAAACBAAAAgQAAAIEAAACBAAAAgQAAAIEAAACBAAAAgQAAAIEAAACBAAAAgQAA
+        AIEAAACBAAAAgf///4H///+B////gf///4H///+B////gf///4H///+B////gf///4H///+B////gf//
+        /4H///+BAAAAgQAAAIH///+BQEBA/0BAQP9AQED/QEBA/0BAQP9AQED/QEBA/0BAQP9AQED/QEBA/0BA
+        QP9AQED/////gQAAAIEAAACB////gUBAQP9AQED/QEBA/0BAQP9AQED/QEBA/0BAQP9AQED/QEBA/0BA
+        QP9AQED/QEBA/////4EAAACBAAAAgf///4FAQED/QEBA/0BAQP9AQED/QEBA/0BAQP9AQED/QEBA/0BA
+        QP9AQED/QEBA/0BAQP////+BAAAAgQAAAIH///+BQEBA/0BAQP9AQED/QEBA/0BAQP9AQED/QEBA/0BA
+        QP9AQED/QEBA/0BAQP9AQED/////gQAAAIEAAACB////gUBAQP+goKD/QEBA/6CgoP+goKD/oKCg/6Cg
+        oP9AQED/QEBA/0BAQP9AQED/QEBA/////4EAAACBAAAAgf///4FAQED/QEBA/0BAQP9AQED/QEBA/0BA
+        QP9AQED/QEBA/0BAQP9AQED/QEBA/0BAQP////+BAAAAgQAAAIH///+BQEBA/6CgoP9AQED/oKCg/6Cg
+        oP+goKD/oKCg/6CgoP9AQED/QEBA/0BAQP9AQED/////gQAAAIEAAACB////gUBAQP9AQED/QEBA/0BA
+        QP9AQED/QEBA/0BAQP9AQED/QEBA/0BAQP9AQED/QEBA/////4EAAACBAAAAgf///4FAQED/oKCg/0BA
+        QP+goKD/oKCg/6CgoP+goKD/QEBA/0BAQP9AQED/QEBA/0BAQP////+BAAAAgQAAAIH///+BQEBA/0BA
+        QP9AQED/QEBA/0BAQP9AQED/QEBA/0BAQP9AQED/QEBA/0BAQP9AQED/////gQAAAIEAAACB////gUBA
+        QP+goKD/QEBA/6CgoP+goKD/oKCg/6CgoP+goKD/oKCg/0BAQP9AQED/QEBA/////4EAAACBAAAAgf//
+        /4FAQED/QEBA/0BAQP9AQED/QEBA/0BAQP9AQED/QEBA/0BAQP9AQED/QEBA/0BAQP////+BAAAAgQAA
+        AIH///+B////gf///4H///+B////gf///4H///+B////gf///4H///+B////gf///4H///+B////gQAA
+        AIEAAACBAAAAgQAAAIEAAACBAAAAgQAAAIEAAACBAAAAgQAAAIEAAACBAAAAgQAAAIEAAACBAAAAgQAA
+        AIEAAACBAAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA
+        //8AAP//AAD//w==
+</value>
   </data>
 </root>

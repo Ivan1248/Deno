@@ -95,5 +95,10 @@ namespace Mideno
             else
                 rk.DeleteValue("Mideno", false);
         }
+
+        private void notifyIcon1_Click(object sender, EventArgs e)
+        {
+            this.Activate();
+        }
     }
 }
