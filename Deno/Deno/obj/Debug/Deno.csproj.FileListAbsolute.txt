@@ -1,0 +1,9 @@
+C:\Users\Ivan\Source\Repos\Deno\Deno\Deno\bin\Debug\Deno.exe.config
+C:\Users\Ivan\Source\Repos\Deno\Deno\Deno\obj\Debug\Deno.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Source\Repos\Deno\Deno\Deno\obj\Debug\Deno.Properties.Resources.resources
+C:\Users\Ivan\Source\Repos\Deno\Deno\Deno\obj\Debug\Deno.csproj.GenerateResource.Cache
+C:\Users\Ivan\Source\Repos\Deno\Deno\Deno\bin\Debug\Deno.exe
+C:\Users\Ivan\Source\Repos\Deno\Deno\Deno\bin\Debug\Deno.pdb
+C:\Users\Ivan\Source\Repos\Deno\Deno\Deno\obj\Debug\Deno.exe
+C:\Users\Ivan\Source\Repos\Deno\Deno\Deno\obj\Debug\Deno.pdb
+C:\Users\Ivan\Source\Repos\Deno\Deno\Deno\obj\Debug\Mideno.Form1.resources
