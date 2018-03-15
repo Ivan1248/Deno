@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Mideno
+namespace Deno
 {
     static class Program
     {
