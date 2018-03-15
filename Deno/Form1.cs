@@ -40,7 +40,7 @@ namespace Deno
             };
 
             // bottom bar visibility
-            this.textBox1.KeyUp += (s, e) => bottomBar.Visible = false;
+            //this.textBox1.KeyUp += (s, e) => bottomBar.Visible = false;
             this.Activated += (s, e) => bottomBar.Visible = true;
             //this.textBox1.Click += (s, e) => bottomBar.Visible = true;
             this.Deactivate += (s, e) => bottomBar.Visible = false;
